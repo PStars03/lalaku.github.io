@@ -75,21 +75,20 @@ body {
   }
 } */
 /* hp */
-@media (max-width: 430px) {
+@media (max-width: 1024px) {
   .love {
-    max-height: 10%;
-    max-width: 10%;
+    height: 35px;
+    width: 35px;
   }
   .love::after {
-    height: 100%;
-    width: 100%;
+    height: 35px;
+    width: 35px;
     right: -45%;
   }
   .love::before {
-    height: 100%;
-    width: 80%;
-    left: 0%;
-    top: -60%;
+    height: 35px;
+    width: 35px;
+    top: -50%;
   }
 }
 .greetings > span {
