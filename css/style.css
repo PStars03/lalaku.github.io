@@ -59,23 +59,7 @@ body {
   border-radius: 50%;
   box-shadow: 10px 10px 90px #fd0076;
 }
-/* laptop */
-/* @media (max-width: 1024px) {
-  .love {
-    max-height: 65%;
-    max-width: 65%;
-  }
-  .love::after {
-    max-height: 65%;
-    max-width: 65%;
-  }
-  .love::before {
-    max-height: 65%;
-    max-width: 65%;
-  }
-} */
-/* hp */
-@media (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .love {
     height: 35px;
     width: 35px;
