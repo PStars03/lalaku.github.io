@@ -75,7 +75,7 @@ body {
   }
 } */
 /* hp */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .love {
     max-height: 10%;
     max-width: 10%;
